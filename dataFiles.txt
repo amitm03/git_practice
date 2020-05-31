@@ -1,0 +1,5 @@
+ls > test01
+echo "bar" > test02
+echo "foo" > test03
+
+echo "foo2" > test04
